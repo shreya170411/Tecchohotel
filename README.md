@@ -3,10 +3,6 @@ This project is a complete hotel booking web application built as part of the In
 
 ---
 
-## 🌟 **Live Demo**
-[Deployed on Vercel] - https://tecchohotel-internship.vercel.app
-
----
 
 ## 📋 **Project Overview**
 TecchoHotel is a full-featured hotel booking platform that allows users to browse rooms, make reservations, and manage their bookings. The application is built with modern web technologies and follows industry best practices.
